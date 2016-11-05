@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ilxanlar/bapple.git"
+    "url": "git+https://github.com/evandhq/bapple.git"
   },
   "keywords": [
     "javascript",
@@ -21,9 +21,9 @@
   "author": "Mehdi Namvar <ilxxxanlar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ilxanlar/bapple/issues"
+    "url": "https://github.com/evandhq/bapple/issues"
   },
-  "homepage": "https://github.com/ilxanlar/bapple#readme",
+  "homepage": "https://github.com/evandhq/bapple#readme",
   "dependencies": {
   },
   "devDependencies": {
